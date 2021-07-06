@@ -1,0 +1,17 @@
+body{
+    
+}
+
+h1, h3 {
+   text-align: center; 
+}
+
+.containerForm {
+    display: flex;
+    justify-content: center;
+}
+
+#list {
+    margin-top: 20px;
+    margin-left: 620px;
+}
