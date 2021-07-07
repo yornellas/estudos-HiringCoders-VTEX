@@ -1,14 +1,14 @@
-// let pessoa = {
-//     nome: "Yolanda",
-//     idade: 32,
-//     altura: 1.69,
-//     peso: 80.0
-// }
+let pessoa = {
+     nome: "Yolanda",
+     idade: 32,
+     altura: 1.69,
+     peso: 80.0
+ }
 
-// //Desestruturar um objeto:
-// let {nome, idade, altura, peso} = pessoa;
-// console.log(nome);
-// console.log(idade);
+//Desestruturar um objeto:
+let {nome, idade, altura, peso} = pessoa;
+console.log(nome);
+console.log(idade);
 
 
 let livros = [
